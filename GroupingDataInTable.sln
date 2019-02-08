@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupingDataInTable", "GroupingDataInTable\GroupingDataInTable.csproj", "{60A5AFAA-A850-490E-A20E-5D297DDB0C26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60A5AFAA-A850-490E-A20E-5D297DDB0C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A5AFAA-A850-490E-A20E-5D297DDB0C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A5AFAA-A850-490E-A20E-5D297DDB0C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A5AFAA-A850-490E-A20E-5D297DDB0C26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2722ACD-FA59-42AA-9869-8F8D123C39AD}
+	EndGlobalSection
+EndGlobal
